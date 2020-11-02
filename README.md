@@ -3,3 +3,4 @@ Data Structures in C/Java from Arrays, Strings, Linked List, Trees, Graph and ma
 
 1. 1D Arrays
 2. Strings
+3. 2D Arrays
